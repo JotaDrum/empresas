@@ -1,0 +1,38 @@
+{
+  "9": [
+    { "ErrorType": 0, "QttError": "3540724" },
+    { "ErrorType": 1, "QttError": "3037018" },
+    { "ErrorType": 2, "QttError": "5523" },
+    { "ErrorType": 3, "QttError": "1151758" },
+    { "ErrorType": 4, "QttError": "123853" },
+    { "ErrorType": 6, "QttError": "589" }
+  ],
+  "10": [
+    { "ErrorType": 0, "QttError": "3540724" },
+    { "ErrorType": 2, "QttError": "5523" },
+    { "ErrorType": 3, "QttError": "1151758" },
+    { "ErrorType": 4, "QttError": "123853" },
+    { "ErrorType": 6, "QttError": "589" }
+  ],
+  "11": [
+   { "ErrorType": 0, "QttError": "3540724" },
+    { "ErrorType": 1, "QttError": "3037018" },
+    { "ErrorType": 2, "QttError": "5523" },
+    { "ErrorType": 4, "QttError": "123853" },
+    { "ErrorType": 6, "QttError": "589" }
+  ],
+  "12": [
+    { "ErrorType": 0, "QttError": "3540724" },
+    { "ErrorType": 1, "QttError": "3037018" },
+    { "ErrorType": 2, "QttError": "5523" },
+    { "ErrorType": 3, "QttError": "1151758" },
+    { "ErrorType": 6, "QttError": "589" }
+  ],
+  "13": [
+    { "ErrorType": 0, "QttError": "3540724" },
+    { "ErrorType": 1, "QttError": "3037018" },
+    { "ErrorType": 2, "QttError": "5523" },
+    { "ErrorType": 3, "QttError": "1151758" },
+    { "ErrorType": 4, "QttError": "123853" }
+  ]
+}
